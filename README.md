@@ -1,6 +1,4 @@
-# 🎓 Complete Coursera from Individial Contributor to Manager Learning Path
-
-## For Developer Manager
+# 🎓 Complete Coursera from Individial Contributor to Developer/Engineering Manager Learning Path
 
 ---
 
