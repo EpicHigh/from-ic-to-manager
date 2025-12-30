@@ -30,7 +30,7 @@
 
 ## **Phase 3: Project Management (Month 5-7)**
 
-> Essential PM skills for Big 4 Consulting
+> Essential PM skills
 
 | Order | Specialization                                         | Institution     | Courses   | Link                                                                                          |
 | :---: | ------------------------------------------------------ | --------------- | --------- | --------------------------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@
 
 ## **Phase 4: Agile & Scrum (Month 8-9)**
 
-> Agile Methodology as per JD requirements
+> Agile Methodology
 
 | Order | Specialization                              | Institution | Courses          | Link                                                                                           |
 | :---: | ------------------------------------------- | ----------- | ---------------- | ---------------------------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@
 
 ## **Phase 5: Coaching & Mentoring (Month 10-11)**
 
-> Coaching skills as per JD: "Effectively mentor others"
+> Coaching skills
 
 | Order | Specialization                   | Institution            | Courses   | Link                                                                              |
 | :---: | -------------------------------- | ---------------------- | --------- | --------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@
 
 ## **Phase 6: Conflict & Difficult Conversations (Month 12-13)**
 
-> As per JD: "Address conflicts, engaging in difficult conversations"
+> Address conflicts, engaging in difficult conversations
 
 | Order | Specialization                                     | Institution           | Courses   | Link                                                                                                |
 | :---: | -------------------------------------------------- | --------------------- | --------- | --------------------------------------------------------------------------------------------------- |
@@ -82,7 +82,7 @@
 
 ## **Phase 7: Advanced Leadership (Month 14-15)**
 
-> Elevate Leadership skills for Big 4
+> Elevate Leadership skills
 
 | Order | Specialization                                            | Institution | Courses   | Link                                                                                                |
 | :---: | --------------------------------------------------------- | ----------- | --------- | --------------------------------------------------------------------------------------------------- |
